@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://choosealicense.com/)
 
-![photo info](markdown.png)
+![Markdown](c:\Users\Doğukan Sevinç\Desktop\markdown.png)
