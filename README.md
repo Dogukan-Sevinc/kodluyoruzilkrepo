@@ -24,4 +24,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://choosealicense.com/)
 
-![Markdown](markdown.png/markdown.png)
